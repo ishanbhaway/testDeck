@@ -57,8 +57,4 @@ nwt<-dataInp()$newwt
 ## Performance Graph Plot
 ![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2.png) 
 
-<<<<<<< HEAD
 I know the regression doesnt do justice right... that means there is still room for improvement...:)  
-=======
-I know the regression doesnt do justice right... that means there is still room for improvement...:)  $$/alpha$$
->>>>>>> origin/gh-pages
