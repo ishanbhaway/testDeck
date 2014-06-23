@@ -10,6 +10,7 @@ hitheme     : tomorrow      #
 widgets     : [mathjax] 
 mode        : selfcontained # {standalone, draft}
 output      : ioslides_presentation
+knit        : slidify::knit2slides
 ---
 
 ## The reason for this application
