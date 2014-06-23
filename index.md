@@ -9,7 +9,7 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [mathjax] 
 mode        : selfcontained # {standalone, draft}
-output
+output      : ioslides_presentation
 ---
 
 ## The reason for this application
